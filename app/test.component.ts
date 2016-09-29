@@ -17,3 +17,4 @@ export class TestComponent{
   items = ['a','b','c'];
   @ContentChild(TemplateRef) itemTemplate:any;
 }
+
